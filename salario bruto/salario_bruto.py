@@ -12,6 +12,13 @@ if prestaçao <= cauculo:
 
      print ("voce pode fazer o emprestimo") 
 
+else: 
+
+     print ("voce pode fazer o emprestimo") 
+
+print ("até a próxima") 
+
+ 
 
  
  
